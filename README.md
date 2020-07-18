@@ -18,3 +18,4 @@
  - https://packagist.org/users/riazXrazor/ 
 
 ![Riaz's github stats](https://github-readme-stats.vercel.app/api?username=riazXrazor&show_icons=true]&hide=["contribs","prs"])
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=riazXrazor alt="Riaz Laskar"/> </p>
