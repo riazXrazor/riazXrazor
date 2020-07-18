@@ -16,3 +16,5 @@
 ## OpenSource contributions try 
  - https://www.npmjs.com/~riazxrazor
  - https://packagist.org/users/riazXrazor/ 
+
+![Riaz's github stats](https://github-readme-stats.vercel.app/api?username=riazXrazor&show_icons=true]&hide=["contribs","prs"])
