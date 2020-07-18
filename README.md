@@ -1,8 +1,23 @@
+<p align="center">
+   
+</p>
+
+<table border="0">
+  <tr>
+    <td> 
+         <img width=200 src=https://github.com/riazXrazor/riazXrazor/blob/master/fd373f86-fbf3-4a3c-9160-d0531e9b0eac.gif/>
+        <p align="left"> <img src=https://komarev.com/ghpvc/?username=riazXrazor alt="Riaz Laskar"/> </p>
+      </td>
+    <td>
+    
 ### Hi there 👋, I'm Riaz Laskar, Software Engineer at Optimize IT Systems currently
 
 6+ years of experience in web development both in frontend as well as in backend technologies, ability to lead team and guide them, knowledge on application architecture design and implementation
-
-
+    </td>
+  </tr>
+  <tr>
+     <td colspan=2 bgcolor="#fff">
+     
 - 🔭 I’m currently working on **react⚛️, nodejs, Laravel** 
 - 🌱 I’m currently learning **Golang** 
 - 🤔 I’m looking for help with **Golang**
@@ -13,9 +28,20 @@
      https://myanimelist.net/animelist/riazxrazor
  - :page_facing_up: Online Resume: http://riazlaskar.com/
 
+
+     
+     </td>
+  </tr>
+</table>
+
+
 ## OpenSource contributions try 
  - https://www.npmjs.com/~riazxrazor
  - https://packagist.org/users/riazXrazor/ 
 
 ![Riaz's github stats](https://github-readme-stats.vercel.app/api?username=riazXrazor&show_icons=true]&hide=["contribs","prs"])
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=riazXrazor alt="Riaz Laskar"/> </p>
+
+
+
+
+
