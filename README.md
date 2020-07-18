@@ -1,18 +1,19 @@
 <p align="center">
-   
+    <img width=200 src=https://github.com/riazXrazor/riazXrazor/blob/master/fd373f86-fbf3-4a3c-9160-d0531e9b0eac.gif/><br/>
+    <img src=https://komarev.com/ghpvc/?username=riazXrazor alt="Riaz Laskar"/> <br/>
+   <img src=https://github-readme-stats.vercel.app/api?username=riazXrazor&show_icons=true]&hide=["contribs","prs"] /><br/>
 </p>
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td> 
-         <img width=200 src=https://github.com/riazXrazor/riazXrazor/blob/master/fd373f86-fbf3-4a3c-9160-d0531e9b0eac.gif/>
-        <p align="left"> <img src=https://komarev.com/ghpvc/?username=riazXrazor alt="Riaz Laskar"/> </p>
-      </td>
     <td>
     
 ### Hi there 👋, I'm Riaz Laskar, Software Engineer at Optimize IT Systems currently
 
-6+ years of experience in web development both in frontend as well as in backend technologies, ability to lead team and guide them, knowledge on application architecture design and implementation
+6+ years of experience in web development both in
+frontend as well as in backend 
+technologies, ability to lead team and guide them,
+knowledge on application architecture design and implementation
     </td>
   </tr>
   <tr>
@@ -39,7 +40,7 @@
  - https://www.npmjs.com/~riazxrazor
  - https://packagist.org/users/riazXrazor/ 
 
-![Riaz's github stats](https://github-readme-stats.vercel.app/api?username=riazXrazor&show_icons=true]&hide=["contribs","prs"])
+
 
 
 
