@@ -1,7 +1,7 @@
 <p align="center">
     <img width=200 src=https://github.com/riazXrazor/riazXrazor/blob/master/fd373f86-fbf3-4a3c-9160-d0531e9b0eac.gif/><br/>
     <img src=https://komarev.com/ghpvc/?username=riazXrazor alt="Riaz Laskar"/> <br/>
-   <img src=https://github-readme-stats.vercel.app/api?username=riazXrazor&show_icons=true]&hide=["contribs","prs"] /><br/>
+    <img src=https://github-readme-stats.vercel.app/api?username=riazXrazor&show_icons=true]&hide=["contribs","prs"] /><br/>
 </p>
 
 <table border="0" width="100%">
@@ -40,7 +40,7 @@ knowledge on application architecture design and implementation
  - https://www.npmjs.com/~riazxrazor
  - https://packagist.org/users/riazXrazor/ 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazXrazor&hide=html,css)](https://github.com/riazXrazor/riazXrazor)
 
 
 
