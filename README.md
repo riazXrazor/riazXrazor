@@ -10,7 +10,7 @@
     
 ### Hi there 👋, I'm Riaz Laskar, Software Engineer at Optimize IT Systems currently
 
-7+ years of experience in web development both in
+5+ years of experience in web development both in
 frontend as well as in backend 
 technologies, ability to lead team and guide them,
 knowledge on application architecture design and implementation
