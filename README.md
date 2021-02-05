@@ -19,7 +19,7 @@ knowledge on application architecture design and implementation
   <tr>
      <td colspan=2 bgcolor="#fff">
      
-- 🔭 I’m currently working on **react⚛️, nodejs, Laravel** 
+- 🔭 I’m currently working on **react⚛️, nodejs, Laravel, React Native, Vuejs** 
 - 🌱 I’m currently learning **Golang** 
 - 🤔 I’m looking for help with **Golang**
 - 💬 Ask me about anything
