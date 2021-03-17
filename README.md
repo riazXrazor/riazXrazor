@@ -4,6 +4,12 @@
     <img src=https://github-readme-stats.vercel.app/api?username=riazXrazor&show_icons=true]&hide=["contribs","prs"] /><br/>
 </p>
 
+
+
+
+
+
+
 <table border="0" width="100%">
   <tr>
     <td>
@@ -42,6 +48,16 @@ knowledge on application architecture design and implementation
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazXrazor&hide=html,css)](https://github.com/riazXrazor/riazXrazor)
 
+<table border="0" width="100%">
+  <tr>
+         <td><img width=200 src=https://i.stack.imgur.com/cX0zR.png/></td>  
+         <td><img width=200 src=https://i.stack.imgur.com/sNUgX.png/></td>  
+         <td><img width=200 src=https://i.stack.imgur.com/HVkH8.png/></td>  
+         <td><img width=200 src=https://i.stack.imgur.com/eGeak.png/></td>  
+         <td><img width=200 src=https://i.stack.imgur.com/cX0zR.png/></td>  
+         <td><img width=200 src=https://i.stack.imgur.com/qO4vx.png/></td>  
+  </tr>
+</table>
 
 
 
