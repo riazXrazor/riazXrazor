@@ -33,7 +33,7 @@ knowledge on application architecture design and implementation
 - ⚡ i like playing games RPG mostly like Diablo, Grim Dawn, POE let me kno if u wana play together 😁. 
      i love watching anime too have a look at my anime list 
      https://myanimelist.net/animelist/riazxrazor
- - :page_facing_up: Online Resume: http://riazlaskar.com/
+ - :page_facing_up:  [Download My Resume](https://drive.google.com/uc?export=download&id=14694ZPLIj9bSp7XuTMn9O6mTanEqLfcS) 
 
 
      
