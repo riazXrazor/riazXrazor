@@ -46,7 +46,7 @@ knowledge on application architecture design and implementation
  - https://www.npmjs.com/~riazxrazor
  - https://packagist.org/users/riazXrazor/ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazXrazor&hide=html,css)](https://github.com/riazXrazor/riazXrazor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazXrazor&hide=html,css,EJS,SCSS&langs_count=10)](https://github.com/riazXrazor/riazXrazor)
 
 <table border="0" width="100%">
   <tr>
