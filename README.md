@@ -50,12 +50,17 @@ knowledge on application architecture design and implementation
 
 <table border="0" width="100%">
   <tr>
-         <td><img width=200 src=https://i.stack.imgur.com/cX0zR.png/></td>  
          <td><img width=200 src=https://i.stack.imgur.com/sNUgX.png/></td>  
          <td><img width=200 src=https://i.stack.imgur.com/HVkH8.png/></td>  
          <td><img width=200 src=https://i.stack.imgur.com/eGeak.png/></td>  
          <td><img width=200 src=https://i.stack.imgur.com/cX0zR.png/></td>  
          <td><img width=200 src=https://i.stack.imgur.com/qO4vx.png/></td>  
+         <td><img width=200 src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQFA1PvqeSHNfg/articleshare-shrink_800/0/1632058857118?e=1632146400&v=beta&t=JPNKzILHxJ9zDIeKzgZngHpOvZ3qrJBl8Mot03MXHnQ"/></td> 
+      <td><img width=200 src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQHJRFjFzw52gw/articleshare-shrink_800/0/1632059052331?e=1632146400&v=beta&t=1jwo0jokvaElVsrp2x8K4LpiIwLaAn1WhIauNXmoHf8"/></td> 
+      <td><img width=200 src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQHUA7XjLzCEHQ/articleshare-shrink_800/0/1632059125392?e=1632146400&v=beta&t=oN10Nn4nmxvO3gt7iHWBSsb7XE5K22Bk7GaA0INvijw"/></td> 
+      
+
+      
   </tr>
 </table>
 
