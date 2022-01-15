@@ -14,7 +14,7 @@
   <tr>
     <td>
     
-### Hi there 👋, I'm Riaz Laskar, Software Engineer at Optimize IT Systems currently
+### Hi there 👋, I'm Riaz Laskar, Senior Associate at PwC currently
 
 5+ years of experience in web development both in
 frontend as well as in backend 
