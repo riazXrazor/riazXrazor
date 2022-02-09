@@ -50,6 +50,7 @@ knowledge on application architecture design and implementation
 
 <table border="0" width="100%">
   <tr>
+         <td><img width=200 src=https://images.credly.com/images/abf73960-edd2-4115-9ab9-e42e9fd967e9/JSLandia.png /></td>  
          <td><img width=200 src=https://i.stack.imgur.com/sNUgX.png/></td>  
          <td><img width=200 src=https://i.stack.imgur.com/HVkH8.png/></td>  
          <td><img width=200 src=https://i.stack.imgur.com/eGeak.png/></td>  
