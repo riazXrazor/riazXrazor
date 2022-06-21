@@ -1,27 +1,38 @@
-<p align="center">
+<!-- <p align="center">
     <img width=200 src=https://github.com/riazXrazor/riazXrazor/blob/master/fd373f86-fbf3-4a3c-9160-d0531e9b0eac.gif/><br/>
     <img src=https://komarev.com/ghpvc/?username=riazXrazor alt="Riaz Laskar"/> <br/>
-    <img src=https://github-readme-stats.vercel.app/api?username=riazXrazor&show_icons=true]&hide=["contribs","prs"] /><br/>
+  <br/>
+</p> -->
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/13194363/174869418-bf4f902f-c757-4628-a56a-d7e496070874.png" /><br/>
+ <a href="https://www.credly.com/badges/a1d5e9d3-84ec-4b4a-bb9e-e2dd886d2811/public_url">JSNSD: OpenJS Node.js Services Developer</a>
 </p>
-
-
-
+<table border="0" width="100%">
+  <tr>
+         <td><img width=200 src=https://user-images.githubusercontent.com/13194363/174871417-f837f679-ee28-4b59-a8bd-a2eed25e8f80.png /></td>  
+         <td><img width=200 src=https://i.stack.imgur.com/sNUgX.png/></td>  
+         <td><img width=200 src=https://i.stack.imgur.com/HVkH8.png/></td>  
+         <td><img width=200 src=https://i.stack.imgur.com/eGeak.png/></td>  
+         <td><img width=200 src=https://i.stack.imgur.com/cX0zR.png/></td>  
+  </tr>
+</table>
 
 
 
 
 <table border="0" width="100%">
   <tr>
-    <td>
-    
-### Hi there 👋, I'm Riaz Laskar, Senior Associate at PwC currently
+    <td align="center"><table border="0" width="100%">
+          <tr>
+            <td>Hi there 👋, I'm Riaz Laskar, Senior Associate at PwC currently</br>
 
-5+ years of experience in web development both in
-frontend as well as in backend 
-technologies, ability to lead team and guide them,
-knowledge on application architecture design and implementation
-    </td>
-  </tr>
+5+ years of experience in web development both in</br>
+frontend as well as in backend </br>
+technologies, ability to lead team and guide them,</br>
+knowledge on application architecture design and implementation</td><td><img src=https://github.com/riazXrazor/riazXrazor/blob/master/fd373f86-fbf3-4a3c-9160-d0531e9b0eac.gif/></td>
+          </td>
+        </table></td></tr>
   <tr>
      <td colspan=2 bgcolor="#fff">
      
@@ -46,24 +57,17 @@ knowledge on application architecture design and implementation
  - https://www.npmjs.com/~riazxrazor
  - https://packagist.org/users/riazXrazor/ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazXrazor&hide=html,css,EJS,SCSS&langs_count=10)](https://github.com/riazXrazor/riazXrazor)
+
+
 
 <table border="0" width="100%">
   <tr>
-         <td><img width=200 src=https://images.credly.com/images/abf73960-edd2-4115-9ab9-e42e9fd967e9/JSLandia.png /></td>  
-         <td><img width=200 src=https://i.stack.imgur.com/sNUgX.png/></td>  
-         <td><img width=200 src=https://i.stack.imgur.com/HVkH8.png/></td>  
-         <td><img width=200 src=https://i.stack.imgur.com/eGeak.png/></td>  
-         <td><img width=200 src=https://i.stack.imgur.com/cX0zR.png/></td>  
-         <td><img width=200 src=https://i.stack.imgur.com/qO4vx.png/></td>  
-         <td><img width=200 src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQFA1PvqeSHNfg/articleshare-shrink_800/0/1632058857118?e=1632146400&v=beta&t=JPNKzILHxJ9zDIeKzgZngHpOvZ3qrJBl8Mot03MXHnQ"/></td> 
-      <td><img width=200 src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQHJRFjFzw52gw/articleshare-shrink_800/0/1632059052331?e=1632146400&v=beta&t=1jwo0jokvaElVsrp2x8K4LpiIwLaAn1WhIauNXmoHf8"/></td> 
-      <td><img width=200 src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQHUA7XjLzCEHQ/articleshare-shrink_800/0/1632059125392?e=1632146400&v=beta&t=oN10Nn4nmxvO3gt7iHWBSsb7XE5K22Bk7GaA0INvijw"/></td> 
-      
-
-      
+    <td><img src=https://github-readme-stats.vercel.app/api?username=riazXrazor&show_icons=true]&hide=["contribs","prs"] /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riazXrazor&hide=html,css,EJS,SCSS&langs_count=10" /></td>
   </tr>
 </table>
+
+
 
 
 
