@@ -5,12 +5,14 @@
 </p> -->
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/13194363/174869418-bf4f902f-c757-4628-a56a-d7e496070874.png" /><br/>
- <a href="https://www.credly.com/badges/a1d5e9d3-84ec-4b4a-bb9e-e2dd886d2811/public_url">JSNSD: OpenJS Node.js Services Developer</a>
+ <a href="https://www.credly.com/badges/a1d5e9d3-84ec-4b4a-bb9e-e2dd886d2811/public_url" target="_blank"><img src="https://user-images.githubusercontent.com/13194363/174869418-bf4f902f-c757-4628-a56a-d7e496070874.png" /><br/>
+ JSNSD: OpenJS Node.js Services Developer</a>
 </p>
 <table border="0" width="100%">
   <tr>
-         <td><img width=200 src=https://user-images.githubusercontent.com/13194363/174871417-f837f679-ee28-4b59-a8bd-a2eed25e8f80.png /></td>  
+         <td align="center"><a href="https://www.credly.com/badges/6b671e07-f71f-48dd-94e7-8eea24ea3dcb/public_url" target="_blank"><img width=200 src=https://user-images.githubusercontent.com/13194363/174871417-f837f679-ee28-4b59-a8bd-a2eed25e8f80.png /><br/>
+          OpenJS Foundation: JavaScriptLandia</a>
+         </td>  
          <td><img width=200 src=https://i.stack.imgur.com/sNUgX.png/></td>  
          <td><img width=200 src=https://i.stack.imgur.com/HVkH8.png/></td>  
          <td><img width=200 src=https://i.stack.imgur.com/eGeak.png/></td>  
