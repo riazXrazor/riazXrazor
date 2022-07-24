@@ -29,7 +29,7 @@
           <tr>
             <td>Hi there 👋, I'm Riaz Laskar, Senior Associate at PwC currently</br>
 
-5+ years of experience in web development both in</br>
+8+ years of experience in web development both in</br>
 frontend as well as in backend </br>
 technologies, ability to lead team and guide them,</br>
 knowledge on application architecture design and implementation</td><td><img src=https://github.com/riazXrazor/riazXrazor/blob/master/fd373f86-fbf3-4a3c-9160-d0531e9b0eac.gif/></td>
