@@ -27,9 +27,9 @@
   <tr>
     <td align="center"><table border="0" width="100%">
           <tr>
-            <td>Hi there 👋, I'm Riaz Laskar, Senior Associate at PwC currently</br>
+            <td>Hi there 👋, I'm Riaz Laskar,</br>
 
-8+ years of experience in web development both in</br>
+more then half a decade of experience in web development both in</br>
 frontend as well as in backend </br>
 technologies, ability to lead team and guide them,</br>
 knowledge on application architecture design and implementation</td><td><img src=https://github.com/riazXrazor/riazXrazor/blob/master/fd373f86-fbf3-4a3c-9160-d0531e9b0eac.gif/></td>
@@ -39,8 +39,8 @@ knowledge on application architecture design and implementation</td><td><img src
      <td colspan=2 bgcolor="#fff">
      
 - 🔭 I’m currently working on **react⚛️, nodejs, Laravel, React Native, Vuejs** 
-- 🌱 I’m currently learning **Golang** 
-- 🤔 I’m looking for help with **Golang**
+- 🌱 I’m currently learning **Golang** **Rust** 
+- 🤔 I’m looking for help with **Golang** **Rust**
 - 💬 Ask me about anything
 - 📫 How to reach me: riazcool77@gmail.com
 - ⚡ i like playing games RPG mostly like Diablo, Grim Dawn, POE let me kno if u wana play together 😁. 
